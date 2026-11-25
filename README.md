@@ -1,5 +1,10 @@
 # Limbus Helper
 
+> **LimbusHelper now lives in [EnemyBar2](https://github.com/linktri3363/EnemyBar2)** as its Limbus
+> module (`//eb lh`), with the same detection and an EB2-style, draggable display. This standalone
+> version still works if you don't use EnemyBar2, but new development happens there. Don't run both
+> at once, or you'll get two overlays.
+
 A Windower addon for FFXI that tracks the treasure chests in Apollyon and Temenos.
 Each zone has four chest sectors. Opening one gives either the standard reward
 (3,000 units) or the bonus reward (5,000 units). LimbusHelper shows which sectors
