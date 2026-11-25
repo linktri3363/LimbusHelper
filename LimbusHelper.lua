@@ -22,7 +22,7 @@
 ]]
 
 _addon.name     = 'LimbusHelper'
-_addon.author   = 'Kaius @ Bahamut'
+_addon.author   = 'Kaius @ Bahamut, Linktri @ Asura'
 _addon.version  = '1.06'
 _addon.commands = {'limbushelper', 'lh'}
 

@@ -50,3 +50,7 @@ Sectors: Apollyon `NW NE SW SE`, Temenos `N W E C`.
 Progress is saved per character in `data/state_<CharName>.xml`, so several
 characters running at once never overwrite each other. Display settings are in
 `data/settings.xml`. Both are created automatically.
+
+## Credits
+
+Created by Kaius @ Bahamut and Linktri @ Asura.
